@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AtividadeJavaSwing.iml" filepath="$PROJECT_DIR$/.idea/AtividadeJavaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Att01 - CalculadoraJavaSwing/Att01 - CalculadoraJavaSwing.iml" filepath="$PROJECT_DIR$/Att01 - CalculadoraJavaSwing/Att01 - CalculadoraJavaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Att05 - AgendaDiaria/Att05 - AgendaDiaria.iml" filepath="$PROJECT_DIR$/Att05 - AgendaDiaria/Att05 - AgendaDiaria.iml" />
+    </modules>
+  </component>
+</project>
